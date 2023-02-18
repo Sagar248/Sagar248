@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Sagar248-
+-  Hi 👋, I’m @Sagar248-
 -  I’m interested in Algorithms and Data Structures 
-- I have learn't Java development, deep dive on Algorithms using Java
-- I have experience in NLP, and have some repositories about it
-- I'm currently learning more about Web development
+-  In college, I have developed Sentiment Analysis using NLP, developed a sudoku solver app using JS.
+-  I have deployed social_book app using Django.
+-  I have experience in backend development.
+- I'm currently learning more about Web development.
 
